@@ -33,10 +33,13 @@ function writePassword() {
 // TODO: create a Conditional situation that saves the choisen char from our confirms to our chosen char var (using an if statement)
 
 // TODO: We have to select the specific number of char randomly from our final collection based on the user's answer to how long they want the length of their pass to be
+ 
+// TODO: create an array to hold the final results
 
 // I can use Math.floor(Math.random()) to get a random number
 // for loop that runs as long as the prompt to the lenght answer [ for(var i=0 ; i<"charactor length prompt" ; i++ ){"logic goes here"}]
 
+// TODO:  inside the forloop, push each char into the final char var
 
 // TODO: Add validations to make sure atleast one type of char is selected and alert the user if there are no types being selected
 
